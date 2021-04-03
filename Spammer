@@ -1,0 +1,1 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>< версия проекта = " 4 " > < component name = " ProjectModuleManager " > < модули > < module fileurl = " file: //$PROJECT_DIR$/GmailSpumer.iml " filepath = " $ PROJECT_DIR $ / GmailSpumer.iml " /> </ модули > </ компонент ></ проект >
